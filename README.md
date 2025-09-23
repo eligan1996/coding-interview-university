@@ -624,8 +624,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [X] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
-    - [x] [Why you should avoid linked lists (video)](https://youtu.be/cvZArAipOjo?feature=shared)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
+    - [X] [Why you should avoid linked lists (video)](https://youtu.be/cvZArAipOjo?feature=shared)
+    - [X] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
